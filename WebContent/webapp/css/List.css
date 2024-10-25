@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+
+.button{
+	margin-bottom:30px;
+}
+.title_tr{
+	font-size:21px;
+}
+table{
+	font-family: 'Black Han Sans', sans-serif;
+	background-color:white;
+	border-collapse: collapse;
+	font-size:16px;
+	color:#006400;
+}

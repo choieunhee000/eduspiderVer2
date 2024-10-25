@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+.enter{
+	font-family: 'Black Han Sans', sans-serif;
+	color:white;
+	font-size:40px;
+}
+
+span{
+	font-family: 'Black Han Sans', sans-serif;
+	color:white;
+	font-size:16px;
+}
+

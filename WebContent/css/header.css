@@ -1,0 +1,44 @@
+@charset "EUC-KR";
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+
+
+.navbar {
+    height: 80px;
+    background-color: #4ea685;
+}
+
+.navbar .navbar-header .navbar-brand {
+    display: flex;
+    color:#AAD584;
+    font-size: 50px;
+    margin-left: 15px;
+    align-self: flex-start;
+    font-family: 'Rubik Puddles', cursive;
+    font-weight: bold;
+      text-decoration: none;
+      padding-top: 0;
+}
+
+.navbar .navbar-header .navbar-brand img {
+    width: 100px;
+    height: 150px;
+    background-position: center;
+    padding-bottom: 50px;
+    /position: absolute;/
+
+}
+
+.navbar .navbar-header .navbar-brand span {
+    margin-left:15px;
+    padding-top: 30px;
+
+}
+
+.navbar .navbar-right {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.navbar .navbar-right li a {
+    color: #AAD584;
+}

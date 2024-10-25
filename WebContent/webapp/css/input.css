@@ -1,0 +1,63 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+
+.text1, .text2{
+	color:#006400;
+	font-size:30px;
+	font-family: 'Fredoka One', cursive;
+}
+
+
+.keyword, .keyword2{
+	width:120px;
+}
+input{
+	outline: none;
+	border:none;
+	border-radius:10px;
+	background-color:#006400;
+	color:white;
+	font-size:15px;
+	height:20px;
+	font-family: 'Black Han Sans', sans-serif;
+	caret-color:#006400;
+	padding:5px 10px 5px 10px;
+}
+.number{
+	margin-left:40px;
+	margin-right:30px;
+	width:50px;
+}
+
+.box1, .box2{
+	background-color:white;
+	width:600px;
+	border-radius:15px;
+	padding-top:10px;
+	margin-bottom:20px;
+}
+.box1{
+	height:200px;
+}
+.box2{
+	height:240px;
+}
+.keyword_text{
+	margin-left:10px;
+	margin-right:55px;
+	font-family: 'Fredoka One', cursive;
+	color:#006400;
+}
+.keyword_text2{
+	font-family: 'Fredoka One', cursive;
+	color:#006400;
+}
+.number_text{
+	margin-left:25px;
+	font-family: 'Fredoka One', cursive;
+	color:#006400;
+}
+ 
